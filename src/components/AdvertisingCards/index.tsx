@@ -81,7 +81,7 @@ const AdvertisingCard = ({
       </DivLeft>
       <DivRight>
         <IconAnimate src={icon}
-          variants={icon === '/src/assets/icons/svg/package.svg' ?  StyledAdvertisingCardVariantsBox : StyledAdvertisingCardVariantsDollar}
+          variants={icon === '/assets/package-59c0aef8.svg' ?  StyledAdvertisingCardVariantsBox : StyledAdvertisingCardVariantsDollar}
           initial="initial"
           animate={isHover ? "hover" : "initial"}
         />
