@@ -15,7 +15,8 @@ const AdvertisingCard = ({
   firstText,
   secondText,
   icon,
-  textButton
+  textButton,
+  animated
 }: AdvertisingCardProps) => {
   const [isHover, setIsHover] = useState(false)
 
@@ -81,7 +82,7 @@ const AdvertisingCard = ({
       </DivLeft>
       <DivRight>
         <IconAnimate src={icon}
-          variants={icon === '/assets/package-59c0aef8.svg' ?  StyledAdvertisingCardVariantsBox : StyledAdvertisingCardVariantsDollar}
+          variants={animated === 'dollar' ? StyledAdvertisingCardVariantsDollar : StyledAdvertisingCardVariantsBox}
           initial="initial"
           animate={isHover ? "hover" : "initial"}
         />

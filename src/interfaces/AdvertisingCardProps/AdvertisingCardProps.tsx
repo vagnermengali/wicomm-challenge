@@ -3,4 +3,5 @@ export interface AdvertisingCardProps {
     secondText: string;
     icon: string;
     textButton: string;
+    animated?: string;
 }

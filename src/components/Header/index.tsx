@@ -77,10 +77,13 @@ const Header = () => {
 			</DivTop>
 			<DivBottom>
 				<Container>
-					<Icon
-						icon={logo}
-						height={'32px'}
-						width={'166px'}
+					<Link
+						text={<Icon
+							icon={logo}
+							height={'32px'}
+							width={'166px'}
+						/>
+						}
 					/>
 					<Nav>
 						<Link

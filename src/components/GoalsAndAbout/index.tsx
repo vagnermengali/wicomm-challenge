@@ -58,12 +58,14 @@ const GoalsAndAbout = () => {
 							secondText={'Frete grátis'}
 							icon={box}
 							textButton={'Consulte'}
+							animated={'package'}
 						/>
 						<AdvertisingCard
 							firstText={'Seu dinheiro'}
 							secondText={'De volta'}
 							icon={dollar}
 							textButton={'Entenda'}
+							animated={'dollar'}
 						/>
 					</DivCards>
 				</ContainerTop>

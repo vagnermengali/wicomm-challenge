@@ -45,10 +45,14 @@ const Footer = () => {
 				<ContainerTop>
 					<DivLeft>
 						<ContentLeft>
-							<Icon
-								icon={logo}
-								height={'40.83px'}
-								width={'213.37px'}
+							<Link
+								text={
+									<Icon
+										icon={logo}
+										height={'40.83px'}
+										width={'213.37px'}
+									/>
+								}
 							/>
 							<DivSocialMidia>
 								<Text
@@ -426,7 +430,7 @@ const Footer = () => {
 						fontStyle='normal'
 						fontWeight='400'
 						textTransform='none'
-						text='Black Skull 2022. Todos os direitos reservados.'
+						text={`Black Skull ${new Date().getFullYear()}. Todos os direitos reservados.`}
 					/>
 					<DivIcons>
 						<Link
