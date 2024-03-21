@@ -1,4 +1,6 @@
-# Wicomm challenge
+<h1 align="center">
+  Wicomm Challenge
+</h1>
 
 [![Banner](https://github.com/vagnermengali/wicomm-challenge/blob/main/src/assets/images/banner.png)](https://wicomm-challenge-vagnermengali.vercel.app/)
 
