@@ -1,6 +1,6 @@
 # Wicomm challenge
 
-[![Banner](https://github.com/vagnermengali/wicomm-and-black-skull/blob/main/src/assets/images/banner.png)](https://wicomm-and-black-skull-vagnermengali.vercel.app/)
+[![Banner](https://github.com/vagnermengali/wicomm-challenge/blob/main/src/assets/images/banner.png)](https://wicomm-challenge-vagnermengali.vercel.app/)
 
 <div align="center">
    <a href="#documentação-em-português">Leia em Português |</a>
@@ -34,12 +34,12 @@ Para executar este projeto localmente, siga as instruções abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/vagnermengali/wicomm-and-black-skull.git
+   git clone https://github.com/vagnermengali/wicomm-challenge.git
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd wicomm-and-black-skull
+   cd wicomm-challenge
 
 3. Instale as dependências:
 
@@ -60,7 +60,7 @@ Acesse a aplicação no seu navegador através do seguinte endereço: [http://lo
 
 ## Implantação
 
-Este projeto está disponível em: [https://wicomm-and-black-skull-vagnermengali.vercel.app/](https://wicomm-and-black-skull-vagnermengali.vercel.app/)
+Este projeto está disponível em: [https://wicomm-challenge-vagnermengali.vercel.app/](https://wicomm-challenge-vagnermengali.vercel.app/)
 
 ## Contribuição
 
@@ -93,12 +93,12 @@ To run this project locally, follow the instructions below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vagnermengali/wicomm-and-black-skull.git
+   git clone https://github.com/vagnermengali/wicomm-challenge.git
 
 2. Access the project directory:
 
    ```bash
-   cd wicomm-and-black-skull
+   cd wicomm-challenge
 
 3. Install the dependencies:
 
@@ -119,7 +119,7 @@ Access the application in your browser through the following address: [http://lo
 
 ## Deployment
 
-This project is available at: [https://wicomm-and-black-skull-vagnermengali.vercel.app/](https://wicomm-and-black-skull-vagnermengali.vercel.app/)
+This project is available at: [https://wicomm-challenge-vagnermengali.vercel.app/](https://wicomm-challenge-vagnermengali.vercel.app/)
 
 ## Contribution
 
