@@ -126,3 +126,9 @@ This project is available at: [https://wicomm-challenge-vagnermengali.vercel.app
 ## Contribution
 
 If this project has been helpful to you, consider leaving a star (⭐) in the repository to support development.
+
+---
+
+<div align="center">
+   <span>Created by </span><a href="https://github.com/vagnermengali">Vagner Mengali</a>
+</div>
