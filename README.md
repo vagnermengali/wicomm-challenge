@@ -2,7 +2,7 @@
   Wicomm Challenge
 </h1>
 
-[![Banner](https://github.com/vagnermengali/wicomm-challenge/blob/main/src/assets/images/banner.png)](https://wicomm-challenge-vagnermengali.vercel.app/)
+[![Banner](https://github.com/vagnermengali/wicomm-challenge/blob/main/src/assets/images/banner.png)](https://vagnermengali.github.io/wicomm-challenge/)
 
 <div align="center">
    <a href="#documentação-em-português">Leia em Português |</a>
